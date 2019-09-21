@@ -18,3 +18,4 @@ the script is called code.py and should be copied in the root of the circuitpyth
 
 ## Pictures
 ![the firdge alarm](picture01.jpg)
+![the alarm on the fridge](picture02.jpg)
