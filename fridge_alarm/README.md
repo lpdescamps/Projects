@@ -18,7 +18,7 @@ the buzzer is fairly loud and uses 3v. play the wav file to hear how loud it is.
 
 
 ## code.py
->Details explaining each column
+>Details explaining each variable  
 * **timer**: the time in seconds. How long the doors can stay opened.
 * **ledrgb.brightness**: Brightness control for the rgb led on the pcb.
 
