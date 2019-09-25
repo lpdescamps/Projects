@@ -3,16 +3,15 @@ Set the variable in sec for timer. If the door is opened for more than xx sec, t
 the script is called code.py and should be copied in the root of the circuitpython.
 the buzzer is fairly loud and uses 3v. play the wav file to hear how loud it is.
 
-## Fridge Alarm - items
+## Fridge Alarm - Items
 - Adafruit Trinket M0
 - Adafruit Magnetic contact switch (door sensor) [ADA375]
 - Active Buzzer Electromagnetic 1.5V-15V Alarm Arduino Raspberry Pi
 
 
 ## Dependencies
-> adafruit_dotstar module
-> simpleio module
-
+> adafruit_dotstar module  
+> simpleio module  
 
 ## Wire Diagram
 ![wiring](Fridge_Alarm_Sketch.png)
